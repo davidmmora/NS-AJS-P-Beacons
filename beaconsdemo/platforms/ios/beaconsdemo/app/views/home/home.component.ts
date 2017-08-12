@@ -1,5 +1,6 @@
 import {Component} from "@angular/core";
 import {RouterExtensions} from "nativescript-angular/router";
+import * as SocialShare from "nativescript-social-share";
 
 @Component({
     selector:"home",
@@ -16,5 +17,8 @@ export class HomeComponent {
     }
     onContinueTap2(): void {
         this.routerExtensions.navigate(["creditos"]);
+    }
+    share(){
+        SocialShare.shareUrl("https://www.nativescript.org/", "Home of NativeScript", "How would you like to share this url?");
     }
 }

@@ -178,11 +178,11 @@
 		</data>
 		<key>app/app.component.js</key>
 		<data>
-		Aj/qYWQJ4oj+1sEzvNITMvIjnPw=
+		a/1JJJh9xe7nFRLEjnyuP55OftE=
 		</data>
 		<key>app/app.component.ts</key>
 		<data>
-		Jn77ZDiW5wI9CWxEjnNGS3EbuiE=
+		b4WapcDuNiCHH2tmmjRNqbfb0rA=
 		</data>
 		<key>app/app.css</key>
 		<data>
@@ -190,15 +190,27 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		fTLNQlXNWzjJ8Npfop8G5rZK+ts=
+		b637rkK2kgRMN+FVztILOsKa3yU=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		0mblS+jBR4OcXD1343p6qOk3bso=
+		63HJ7Kpjyn7jgikBfcN2Xmc52vk=
+		</data>
+		<key>app/app.routing.js</key>
+		<data>
+		Mz8GGlUvTy2PXj4j4+bOT1J7Xqw=
+		</data>
+		<key>app/app.routing.ts</key>
+		<data>
+		KpOg+3XsKsQRfAvhj1gjX6+6LTo=
 		</data>
 		<key>app/images/apple.jpg</key>
 		<data>
 		wDOnpIgpZ1tz9dHbU2D/1TpzfgE=
+		</data>
+		<key>app/images/beacons.jpg</key>
+		<data>
+		KwmTc17TJc/+iyYfdySdWr30mZU=
 		</data>
 		<key>app/main.aot.ts</key>
 		<data>
@@ -3795,6 +3807,30 @@
 		<key>app/tns_modules/nativescript-intl/package.json</key>
 		<data>
 		W5+sHlGW3bh/hcjKnypMTDAw9w0=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/.npmignore</key>
+		<data>
+		f4imN+GAeyy7dqUdNjyK9ZoX4Tg=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/LICENSE</key>
+		<data>
+		o04jwQu5p6hhxqR5/iFcFkeBKWo=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/README.md</key>
+		<data>
+		uUg6b6xxLtqofpbLl1xAJHOix+g=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/index.d.ts</key>
+		<data>
+		H1GUU+xWUjYr2cLQOgiXzNrnAvM=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/package.json</key>
+		<data>
+		KhZ7l4ZNmsU1Lne4ym2TTIvi9Zw=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/social-share.js</key>
+		<data>
+		OtZusu+yI0F7KvkeHi3bRcTU6AM=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -11296,17 +11332,53 @@
 		<data>
 		Ix9EMU7ToA0qTyrIOc0ceqvsPww=
 		</data>
-		<key>app/views/home.component.html</key>
-		<data>
-		kcK6qFiqdsB0ce2+vGqRw79xbEs=
-		</data>
-		<key>app/views/home.component.js</key>
-		<data>
-		/dy0N1v4dZLaMUeNUqiBn0H1l3Q=
-		</data>
-		<key>app/views/home.component.ts</key>
+		<key>app/views/beacons/beacon.component.css</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/views/beacons/beacon.component.html</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/views/beacons/beacon.component.js</key>
+		<data>
+		qVE5BuSTI2bILKMVyfwRXf3jVvI=
+		</data>
+		<key>app/views/beacons/beacon.component.ts</key>
+		<data>
+		SaXwQyD2G+0/9uJvh3qhkFusHuA=
+		</data>
+		<key>app/views/creditos/credito.component.css</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/views/creditos/credito.component.html</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/views/creditos/credito.component.js</key>
+		<data>
+		Sv8B3+4s2ZW01APlJDZRwemjsIU=
+		</data>
+		<key>app/views/creditos/credito.component.ts</key>
+		<data>
+		2RMEYrIETDfffQlaqcX9VcGM4nY=
+		</data>
+		<key>app/views/home/home.component.css</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/views/home/home.component.html</key>
+		<data>
+		k/5urKshzM7ngqDtkImSr0myqsg=
+		</data>
+		<key>app/views/home/home.component.js</key>
+		<data>
+		7JAPQV0vpGrKtpc9/DeQe3PNvjQ=
+		</data>
+		<key>app/views/home/home.component.ts</key>
+		<data>
+		bY+mOCGnVS2TgczTZbkG0RgtBR4=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -11779,22 +11851,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Aj/qYWQJ4oj+1sEzvNITMvIjnPw=
+			a/1JJJh9xe7nFRLEjnyuP55OftE=
 			</data>
 			<key>hash2</key>
 			<data>
-			J/NQykg7bW8OHH46r2vlEbuW5ag5SlN4tmIQLAO04YU=
+			dZTXD5t/rDcS09clU4RYU83iv4jzjWkyVKdE3b3wnz4=
 			</data>
 		</dict>
 		<key>app/app.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jn77ZDiW5wI9CWxEjnNGS3EbuiE=
+			b4WapcDuNiCHH2tmmjRNqbfb0rA=
 			</data>
 			<key>hash2</key>
 			<data>
-			TXyswkIIke8uojOKfkUkFGUVLjsKKsjoWuZ1S93S3HI=
+			Or0gXU84HnB4rYr4e9+f1kg/8ZDXn27hMivSwWy1ToM=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -11812,22 +11884,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fTLNQlXNWzjJ8Npfop8G5rZK+ts=
+			b637rkK2kgRMN+FVztILOsKa3yU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ol2Hj5e+e6VFNAD7oidUPLZSQbeMSKHJPQKikEYtBqg=
+			bNlLgx/xCQYgy3iCz7tufVOIYmMglxfoNLWY5qYSM2U=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0mblS+jBR4OcXD1343p6qOk3bso=
+			63HJ7Kpjyn7jgikBfcN2Xmc52vk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qJ7GepKAdQXc/JXjEq9at8RQuFPUthvE+V3sPjdeyz8=
+			LjU9cfyR4mq50KNWvvquF9uoU5I6f55kNIAwIMFrwkk=
+			</data>
+		</dict>
+		<key>app/app.routing.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mz8GGlUvTy2PXj4j4+bOT1J7Xqw=
+			</data>
+			<key>hash2</key>
+			<data>
+			e7r/9i40KMVTjbBM95uwsRRz5UwpwZglYDIC/GRjM1Q=
+			</data>
+		</dict>
+		<key>app/app.routing.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KpOg+3XsKsQRfAvhj1gjX6+6LTo=
+			</data>
+			<key>hash2</key>
+			<data>
+			kDbocBDzXFzTHXQjIGAwg42RdEpmMOSp4w4SUIcqi6M=
 			</data>
 		</dict>
 		<key>app/images/apple.jpg</key>
@@ -11839,6 +11933,17 @@
 			<key>hash2</key>
 			<data>
 			WY9OwIgKgwvtsvXcQSgKqhhHK8ceSDLqu6UWkuNnruM=
+			</data>
+		</dict>
+		<key>app/images/beacons.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KwmTc17TJc/+iyYfdySdWr30mZU=
+			</data>
+			<key>hash2</key>
+			<data>
+			24LUnVYQSQlEkgZonoHgyH44oaVYlLMGP2j3ppEGBWo=
 			</data>
 		</dict>
 		<key>app/main.aot.ts</key>
@@ -21728,6 +21833,72 @@
 			<key>hash2</key>
 			<data>
 			BSShlrgtn/l9F3ojgukzh0+MJKs7gs/MA9LBisSFMho=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/.npmignore</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f4imN+GAeyy7dqUdNjyK9ZoX4Tg=
+			</data>
+			<key>hash2</key>
+			<data>
+			1IbGITFT/Aze9VCVATh3RYQ3QkdL3i3D7WAiL6Keo9o=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o04jwQu5p6hhxqR5/iFcFkeBKWo=
+			</data>
+			<key>hash2</key>
+			<data>
+			H6niC1PvNpgkjWUHyOJ69hp/GsKNKgHh2ax9Ept8xxM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uUg6b6xxLtqofpbLl1xAJHOix+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			ypz0vICnzvVA6DL5TLiBiUMSXWjsvH8+15FmwrYox5I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H1GUU+xWUjYr2cLQOgiXzNrnAvM=
+			</data>
+			<key>hash2</key>
+			<data>
+			RlNdd4mWFCZlWQ32SFOlkExXIpQQPce8LN/Tm2/YcMg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KhZ7l4ZNmsU1Lne4ym2TTIvi9Zw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ev6N/0lBmAcPqOKBf/x1ErbXbpBbwpzwGsHjS9oiIYw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/social-share.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OtZusu+yI0F7KvkeHi3bRcTU6AM=
+			</data>
+			<key>hash2</key>
+			<data>
+			M68f/At/8nhGkwb6K6PYa8JoMn8RWJ19TCe/CJoCLXY=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
@@ -42355,29 +42526,7 @@
 			8287fKTBDzhIg2M2D0uNGtVYT4wCuLIxvgVlaad731A=
 			</data>
 		</dict>
-		<key>app/views/home.component.html</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kcK6qFiqdsB0ce2+vGqRw79xbEs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xzg5H5ow/f0oNiZoYveyR/zpJLEBSvrKeyOvvj3NAaU=
-			</data>
-		</dict>
-		<key>app/views/home.component.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/dy0N1v4dZLaMUeNUqiBn0H1l3Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			kvLsrqtelu9ykkkACzqhjc99Ors7YLnpMdbjcmLzovs=
-			</data>
-		</dict>
-		<key>app/views/home.component.ts</key>
+		<key>app/views/beacons/beacon.component.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -42386,6 +42535,127 @@
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/views/beacons/beacon.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/views/beacons/beacon.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qVE5BuSTI2bILKMVyfwRXf3jVvI=
+			</data>
+			<key>hash2</key>
+			<data>
+			0vcZnoLHfj557m7+zulYsaKLS70Gh/gWJzxLb5IRFEU=
+			</data>
+		</dict>
+		<key>app/views/beacons/beacon.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SaXwQyD2G+0/9uJvh3qhkFusHuA=
+			</data>
+			<key>hash2</key>
+			<data>
+			3ai9I7HKHimiD4CooOGOFhiPbOFmIxAmog+ggtE46Ro=
+			</data>
+		</dict>
+		<key>app/views/creditos/credito.component.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/views/creditos/credito.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/views/creditos/credito.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Sv8B3+4s2ZW01APlJDZRwemjsIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			rYOnBxc2hM+s8ZqPQOu2igjVyrB8/XqQnRr59XIBYD0=
+			</data>
+		</dict>
+		<key>app/views/creditos/credito.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2RMEYrIETDfffQlaqcX9VcGM4nY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hq74ecg6vDdd+WhqNXNfh+k7k2RuDnKJpTleVPhCne8=
+			</data>
+		</dict>
+		<key>app/views/home/home.component.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/views/home/home.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k/5urKshzM7ngqDtkImSr0myqsg=
+			</data>
+			<key>hash2</key>
+			<data>
+			+vAGqKxzztBSxGBAj9GJX/Gf5cimkCtJtB35GUDn7mE=
+			</data>
+		</dict>
+		<key>app/views/home/home.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7JAPQV0vpGrKtpc9/DeQe3PNvjQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3zHT/gJMaXOBZw6tsfqM5xPXaQXZdjsrqkvTpA6LFt8=
+			</data>
+		</dict>
+		<key>app/views/home/home.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bY+mOCGnVS2TgczTZbkG0RgtBR4=
+			</data>
+			<key>hash2</key>
+			<data>
+			FqYwJ+uPFZL87lZy1jHtuBSedz7oW/BWNfo7xKQnZi8=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>
