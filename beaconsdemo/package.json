@@ -4,7 +4,10 @@
   "readme": "NativeScript Application",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
-    "id": "org.nativescript.beaconsdemo"
+    "id": "org.nativescript.beaconsdemo",
+    "tns-ios": {
+      "version": "3.1.0"
+    }
   },
   "dependencies": {
     "@angular/animations": "~4.1.0",
