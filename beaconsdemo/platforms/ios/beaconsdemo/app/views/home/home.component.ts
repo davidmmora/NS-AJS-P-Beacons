@@ -15,7 +15,7 @@ export class HomeComponent {
     onContinueTap(): void {
         this.routerExtensions.navigate(["beacons"]);
     }
-    onContinueTap2(): void {
+    onCreditosTap(): void {
         this.routerExtensions.navigate(["creditos"]);
     }
     share(){
