@@ -5,7 +5,7 @@
 </ActionBar>
 <ScrollView>
     <StackLayout>
-        <label class="h1 text-center m-y-10" text="Demo Estimote Beacons"></label>
+        <label class="h1 text-center m-y-10" text="Demo Beacon"></label>
         <image src="~/images/beacons.jpg"></image>
         <label class="footnote text-center m-y-10" text="Curso de NS en KMMX"></label>
         <StackLayout orientation="horizontal" horizontalAligment="center">
@@ -13,7 +13,10 @@
             text="Ver beacons en rango" (tap)="onContinueTap()">
             </Button>
             <button class="btn btn-primary btn-rounded-sm btn-active m-l-20"
-            text="Acerca de la app" (tap)="onContinueTap2()">
+            text="Acerca de la app" (tap)="onCreditosTap()">
+            </button>
+            <button class="btn btn-primary btn-rounded-sm btn-active m-r-20"
+            text="NFC" (tap)="onNFCTap()">
             </button>
         </StackLayout>
     </StackLayout>

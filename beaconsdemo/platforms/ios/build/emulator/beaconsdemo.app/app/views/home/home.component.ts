@@ -15,7 +15,13 @@ export class HomeComponent {
     onContinueTap(): void {
         this.routerExtensions.navigate(["beacons"]);
     }
-    onContinueTap2(): void {
+    onCreditosTap(): void {
         this.routerExtensions.navigate(["creditos"]);
+    }
+    onNFCTap():void{
+        this.routerExtensions.navigate(["nfc"]);
+    }
+    share(){
+        SocialShare.shareUrl("https://www.nativescript.org/", "Home of NativeScript", "How would you like to share this url?");
     }
 }
