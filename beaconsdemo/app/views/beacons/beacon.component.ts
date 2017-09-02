@@ -3,6 +3,8 @@ import { Component,OnInit } from "@angular/core";
 import { Page } from "../../models/page";
 import { PageService } from "../../services/page.service";
 import { NavigationOptions } from "nativescript-angular/router/ns-location-strategy";
+import { RouterExtensions } from "nativescript-angular/router";
+import { ItemEventData } from "ui/list-view";
 
 @Component({
     selector: "beacons",
@@ -11,9 +13,10 @@ import { NavigationOptions } from "nativescript-angular/router/ns-location-strat
     styleUrls: ["views/beacons/beacon.component.css"]
 })
 export class BeaconComponent implements OnInit {
-    routerExtensions: any;
     pages: Array<Page>;
-    constructor(private pageService: PageService) {}
+    constructor(
+        private routerExtensions: RouterExtensions,
+        private pageService: PageService) {}
     ngOnInit():void {
         this.pages = this.pageService.getPages();
     }
@@ -22,6 +25,11 @@ export class BeaconComponent implements OnInit {
             clearHistory:true
         };
     this.routerExtensions.navigate(
-        ["detalle",this.pages.length],options);
+        ["detail",this.pages.length],options);
+    }
+    onItemTap(args:ItemEventData): void {
+        // tslint:disable-next-line:typedef
+        let id = args.index;
+        this.routerExtensions.navigate(["detail",id]);
     }
 }
