@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_669bd0305786376869c12f074b606f3aedd46d42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_fa4d4ce9e611db73ca3a0d115f4722be954337ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_c53fbe9d7e30d49a11d604238875665fc6bef01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\beaconsdemo\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_6b5de148d3e0d8b1e366f934cc570280aaec3809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_5958ddf3d4e2631b1644a462877ed318586f0f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_12082f74886337de7004e15234a28968d922650d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_d589a79a70a1061b025ff850ac7de4f22529c89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_e6dab12169b0a973f9844106f79115f33a114754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\beaconsdemo\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb501f7cf4d74a5f9ec1a9c8172e552f57ea3215">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\beaconsdemo-runtime-unspecified_5e09c69cd0c51bfcd311840363dc4b5a478920b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_0c99b07d9c1d246fb3205f9568292ebec4a3500b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_056c86edd1fdb61c9447c79cdc0e96000824453c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_9811ea6689b0180644b6459f123037c7900b3768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_ec8ba531800834fedbea4b9d8314b836bcd4d366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_a6de2bdc60ea7c0ee81f3e72bd915689d4482f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_2d83dbcf077ac9e90a213d9a71ff96509f1e2297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\TI-David.M\Documents\GitHub\NS-AJS-P-Beacons\beaconsdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_438f6c565c7dd570dbf107da4599c01d5c3c2026.jar" />
+    </item>
+
+</items>

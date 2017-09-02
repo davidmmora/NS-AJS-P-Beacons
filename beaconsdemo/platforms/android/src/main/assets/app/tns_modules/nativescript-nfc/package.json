@@ -1,0 +1,122 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-nfc",
+        "scope": null,
+        "escapedName": "nativescript-nfc",
+        "name": "nativescript-nfc",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/david/Projects/NativeScript/Angular/Beacons/NS-AJS-P-Beacons/beaconsdemo"
+    ]
+  ],
+  "_from": "nativescript-nfc@latest",
+  "_id": "nativescript-nfc@2.0.0",
+  "_inCache": true,
+  "_location": "/nativescript-nfc",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-nfc-2.0.0.tgz_1503320805413_0.650053548393771"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-nfc",
+    "scope": null,
+    "escapedName": "nativescript-nfc",
+    "name": "nativescript-nfc",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-nfc/-/nativescript-nfc-2.0.0.tgz",
+  "_shasum": "92edddb2eb9798e879e859cf8631dd10e491b76f",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-nfc",
+  "_where": "/Users/david/Projects/NativeScript/Angular/Beacons/NS-AJS-P-Beacons/beaconsdemo",
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/nativescript-nfc/issues"
+  },
+  "dependencies": {
+    "nativescript-custom-entitlements": "git+https://github.com/EddyVerbruggen/nativescript-custom-entitlements.git"
+  },
+  "description": "NFC plugin for your NativeScript app",
+  "devDependencies": {
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^3.1.0",
+    "tns-platform-declarations": "^3.1.0",
+    "tslint": "^5.0.0",
+    "typescript": "~2.3.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "92edddb2eb9798e879e859cf8631dd10e491b76f",
+    "tarball": "https://registry.npmjs.org/nativescript-nfc/-/nativescript-nfc-2.0.0.tgz"
+  },
+  "homepage": "https://github.com/EddyVerbruggen/nativescript-nfc",
+  "keywords": [
+    "ecosystem:NativeScript",
+    "NativeScript",
+    "Android",
+    "iOS",
+    "NFC",
+    "NDEF"
+  ],
+  "license": "MIT",
+  "main": "nfc",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "nativescript-nfc",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/nativescript-nfc.git"
+  },
+  "scripts": {
+    "build": "npm i && tsc",
+    "ci.tslint": "npm run tslint && npm run tslint.demo",
+    "demo.android": "npm run preparedemo && cd ../demo && tns platform remove android && tns run android --justlaunch",
+    "demo.ios": "npm run preparedemo && cd ../demo && tns run ios --emulator",
+    "demo.ios.device": "npm run preparedemo && cd ../demo && tns platform remove ios && tns run ios",
+    "development.setup": "npm run setup && npm link && cd ../demo && npm link nativescript-nfc && cd ../src",
+    "preparedemo": "npm run build && cd ../demo && tns plugin remove nativescript-nfc && tns plugin add ../src && tns install",
+    "prepublishOnly": "npm run build",
+    "setup": "npm run build && cd ../demo && npm i",
+    "setupandinstall": "npm i && cd ../demo && npm i && cd ../src && npm run build && cd ../demo && tns plugin add ../src && cd ../src",
+    "test": "npm run tslint && npm run tslint.demo && cd ../demo && tns build ios && tns test android",
+    "test.android": "cd ../demo && tns platform remove android && tns test android --justlaunch",
+    "test.ios.device": "cd ../demo && tns platform remove ios && tns test ios",
+    "tslint": "tslint --config '../tslint.json' '*.ts' --exclude '**/node_modules/**'",
+    "tslint.demo": "tslint --config '../tslint.json' '../demo/app/*.ts' --exclude '**/node_modules/**'"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.0"
+}
