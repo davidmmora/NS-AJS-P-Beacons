@@ -1,15 +1,18 @@
 <ActionBar title="Beacons en rango">
+    <ActionItem (tap)="onAddTap()" text="Add" android.systemIcon="ic_menu_add"
+    ios.position="right" android.position="actionBar">
+    </ActionItem>
 </ActionBar>
 
 <GridLayout rows="*" columns="*">
     <ListView class="list-group" [items]="pages">
-        <template let-item="item">
+        <ng-template let-item="item">
             <StackLayout orientation="horizontal" class="list-group-item">
                 <Image class="thumb img-circle" [src]="item.Image"></Image>
                 <Label class="list-group-item-text"
                     [text]="(item.Title === null ? 'New' : item.Title + '\'s')
                     + 'Pagina de Beacons'"></Label>
             </StackLayout>
-        </template>
+        </ng-template>
     </ListView>
 </GridLayout>

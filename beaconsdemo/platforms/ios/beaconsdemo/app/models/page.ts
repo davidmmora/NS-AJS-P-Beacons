@@ -1,9 +1,13 @@
 import { ImageSource } from "image-source";
 
-export class Page{
+export class Page {
     Id: number;
-    Title: String;
-    Name: String;
+    Title: string;
+    Age: string;
+    BirthDate: any;
+    Gender: string;
+    Lat: number;
+    Long: number;
     Image: ImageSource;
-    ImageBase64: String;
+    ImageBase64: string;
 }
